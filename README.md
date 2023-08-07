@@ -1,4 +1,4 @@
-<img align="center" alt="Te Cat and The Bug." height="450" width="1000" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+<img align="center" alt="Te Cat and The Bug." height="350" width="1000" src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" />
 
 # Hi, I'm Abdo 😈
 
