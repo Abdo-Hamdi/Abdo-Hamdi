@@ -1,4 +1,6 @@
-# Hi, I'm Abdo 😈:
+<img align="center" alt="Te Cat and The Bug." height="450" width="1000" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+
+# Hi, I'm Abdo 😈
 
 I am Student at Computer Science in Ain Shams University.
 
