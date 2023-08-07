@@ -22,6 +22,6 @@ I am Student at Computer Science in Ain Shams University.
     <img height="32" align="left" alt="Mail" src="https://github.com/cszach/cszach/blob/master/img/icons/gmail.png" />
 </a>
 
-<a href="[https://www.linkedin.com/in/abdo-hamdi/]">
+<a href="https://www.linkedin.com/in/abdo-hamdi">
     <img height="32" align="left" alt="LinkedIn" src="https://github.com/cszach/cszach/blob/master/img/icons/linkedin.png" />
 </a>
