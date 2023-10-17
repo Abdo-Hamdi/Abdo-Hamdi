@@ -1,22 +1,29 @@
-<img align="center" alt="Te Cat and The Bug." height="350" width="1000" src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" />
+<img align="center" alt="Te Cat and The Bug." height="350" width="1000" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-# Hi, I'm Abdo 😈
+<h1 align="center">Hi 👋, I'm Abdelrahman Hamdi</h1>
+<h3 align="center">A passionate in Data Science and Ai</h3>
 
-I am Student at Computer Science in Ain Shams University.
+
 
 ## Life
 
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="https://github.com/cszach/cszach/blob/master/img/Fire.gif" />
+<img align="right" alt="Bred the penguin chillin' by the fire." width="200" src="https://github.com/cszach/cszach/blob/master/img/Fire.gif" />
 
-:shipit: Interested in Data Science and Ai
-
+- 🔭 I’m currently Student in **Faculty of Computer and Information Science Ain Shams University**
+- 🤝 I am Interested in Data Science and Ai
+- 👨‍💻 I am Deep Learner and Working Harder
 
 ## Skills
 
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
+
+
+
+
 
 ## Contact
 
