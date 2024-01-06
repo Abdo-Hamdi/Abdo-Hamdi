@@ -22,12 +22,12 @@ I am a passionate student at the Faculty of Computer and Information Science, Ai
 Feel free to reach out if you have any questions or just want to connect! 😊
 
 <p align="left">
-  <a href="mailto:ahamdi1582636@gmail.com"><img height="40" width="40" align="left" alt="Mail" src="icons\gmail.png">
+  <a href="mailto:ahamdi1582636@gmail.com"><img height="40" width="40" alt="Mail" src="icons\gmail.png">
     </a>
-  <a href="https://www.linkedin.com/in/abdo-hamdi"><img height="40" width="40" align="left" alt="LinkedIn" src="icons\linkedin.png">
+  <a href="https://www.linkedin.com/in/abdo-hamdi"><img height="40" width="40" alt="LinkedIn" src="icons\linkedin.png">
     </a>
-  <a href="https://codeforces.com/profile/Abdo_Hamdi"><img height="40" width="40" align="left" alt="Codeforces" src="icons\x.png">
+  <a href="https://codeforces.com/profile/Abdo_Hamdi"><img height="40" width="40" alt="Codeforces" src="icons\x.png">
     </a>
-  <a href="https://codeforces.com/profile/Abdo_Hamdi"><img height="40" width="40" align="left" alt="Codeforces" src="icons\codeforces.png">
+  <a href="https://codeforces.com/profile/Abdo_Hamdi"><img height="40" width="40" alt="Codeforces" src="icons\codeforces.png">
     </a>
 </p>
