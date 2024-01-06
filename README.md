@@ -22,15 +22,11 @@ I am a passionate student at the Faculty of Computer and Information Science, Ai
 Feel free to reach out if you have any questions or just want to connect! 😊
 
 <p align="left">
-  <a href="mailto:ahamdi1582636@gmail.com">
-    <img height="40" width="40" align="left" alt="Mail" src="https://github.com/cszach/cszach/blob/master/img/icons/gmail.png">
+  <a href="mailto:ahamdi1582636@gmail.com"><img height="40" width="40" align="left" alt="Mail" src="icons\gmail.png">
   </a>
-  <a href="https://www.linkedin.com/in/abdo-hamdi">
-    <img height="40" width="40" align="left" alt="LinkedIn" src="https://github.com/cszach/cszach/blob/master/img/icons/linkedin.png">
+  <a href="https://www.linkedin.com/in/abdo-hamdi"><img height="40" width="40" align="left" alt="LinkedIn" src="icons\linkedin.png">
   </a>
-  <a href="https://codeforces.com/profile/Abdo_Hamdi">
-    <img height="40" width="40" align="left" alt="Codeforces" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png">
+  <a href="https://codeforces.com/profile/Abdo_Hamdi"><img height="40" width="40" align="left" alt="Codeforces" src="icons\codeforces.png">
 </a>
-  <a href="https://codeforces.com/profile/Abdo_Hamdi">
-    <img height="40" width="40" align="left" alt="Codeforces" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png">
+  <a href="https://codeforces.com/profile/Abdo_Hamdi"><img height="40" width="40" align="left" alt="Codeforces" src="icons\twitterX.png">
 </p>
