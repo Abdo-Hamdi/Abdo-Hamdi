@@ -22,7 +22,7 @@ I am a passionate student at the Faculty of Computer and Information Science, Ai
 Feel free to reach out if you have any questions or just want to connect! 😊
 
 <p align="left">
-  <a href="mailto:ahamdi1582636@gmail.com"><img height="40" width="40" alt="Mail" src="icons\gmail.png" style="border: 1px solid #555"></a>
+  <a href="mailto:abdelrahman.hamdi27@gmail.com"><img height="40" width="40" alt="Mail" src="icons\gmail.png" style="border: 1px solid #555"></a>
   <a href="https://www.linkedin.com/in/abdo-hamdi"><img height="40" width="40" alt="LinkedIn" src="icons\linkedin.png" style="border: 1px solid #555"></a>
   <a href="https://codeforces.com/profile/Abdo_Hamdi"><img height="40" width="40" alt="Codeforces" src="icons\codeforces.png" style="border: 1px solid #555"></a>
 </p>
