@@ -1,35 +1,23 @@
-# Hi, I'm Abdelrahman Hamdi 👋
+<h1 align="center">Hi 👋, I'm Abdelrahman Hamdi</h1>
+<h3 align="center">Software Developer from Egypt 🇪🇬</h2>
 
-### 🎓 Computer Science Graduate
+> ## 🧑‍💻 About Me
 
 **Fresh Graduated** from the Faculty of Computer and Information Science at **Ain Shams University**. I am a **deep learner** committed to continuous growth and applying my skills to impactful projects.
 
----
+> ## 🛠️ Languages & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,git" />
+</p>
 
-### 🛠️ Skills & Technologies
+> ## 🤝 Connect with Me
 
-I have a strong foundation in the following programming languages:
+<p>
 
-<p align="left">
-  <img src="icons/cplusplus.svg" alt="C++" title="C++" width="40" height="40"/>
-  <img src="icons/csharp.svg" alt="C#" title="C#" width="40" height="40"/>
-  <img src="icons/java.svg" alt="Java" title="Java" width="40" height="40"/>
-  <img src="icons/python.svg" alt="Python" title="Python" width="40" height="40"/>
-  </p>
-
----
-
-### 🤝 Connect with Me
-
-I'm always open to discussing technology, opportunities, or collaboration.
-
-<p align="left">
-  <a href="mailto:abdelrahman.hamdi27@gmail.com">
-    <img height="40" width="40" alt="Mail" src="icons\gmail.png" style="border: 1px solid #555">
-  </a>
-  <a href="https://www.linkedin.com/in/abdo-hamdi">
-    <img height="40" width="40" alt="LinkedIn" src="icons\linkedin.png" style="border: 1px solid #555">
-  </a>
+[<img src='https://skillicons.dev/icons?i=linkedin' alt='Linkedin' height='40'>]((https://www.linkedin.com/in/abdo-hamdi))
+&nbsp;&nbsp;&nbsp;
+[<img src='https://skillicons.dev/icons?i=gmail' alt='Email' height='40'>](mailto:abdelrahman.hamdi27@gmail.com)
+&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
