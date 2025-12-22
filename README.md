@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Hamdi</h1>
-<h3 align="center">Software Developer from Egypt 🇪🇬</h2>
+<h3 align="center">Software Developer</h2>
 
 > ## 🧑‍💻 About Me
 
@@ -7,7 +7,7 @@
 
 > ## 🛠️ Languages & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,py,git,github,vscode,visualstudio" />
 </p>
 
 > ## 🤝 Connect with Me
