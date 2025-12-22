@@ -14,7 +14,7 @@
 
 <p>
 
-[<img src='https://skillicons.dev/icons?i=linkedin' alt='Linkedin' height='40'>]((https://www.linkedin.com/in/abdo-hamdi))
+[<img src='https://skillicons.dev/icons?i=linkedin' alt='Linkedin' height='40'>](https://www.linkedin.com/in/abdo-hamdi)
 &nbsp;&nbsp;&nbsp;
 [<img src='https://skillicons.dev/icons?i=gmail' alt='Email' height='40'>](mailto:abdelrahman.hamdi27@gmail.com)
 &nbsp;&nbsp;&nbsp;
