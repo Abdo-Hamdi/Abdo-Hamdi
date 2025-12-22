@@ -19,5 +19,3 @@
 [<img src='https://skillicons.dev/icons?i=gmail' alt='Email' height='40'>](mailto:abdelrahman.hamdi27@gmail.com)
 &nbsp;&nbsp;&nbsp;
 </p>
-
----
